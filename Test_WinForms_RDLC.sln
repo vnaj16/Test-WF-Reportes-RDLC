@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_WinForms_RDLC", "Test_WinForms_RDLC\Test_WinForms_RDLC.csproj", "{693120B8-07FA-448B-A263-4AF6EC4081DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693120B8-07FA-448B-A263-4AF6EC4081DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693120B8-07FA-448B-A263-4AF6EC4081DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693120B8-07FA-448B-A263-4AF6EC4081DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693120B8-07FA-448B-A263-4AF6EC4081DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E40984B2-DAAB-48C9-9609-D8B0005EAB54}
+	EndGlobalSection
+EndGlobal
